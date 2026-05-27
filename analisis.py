@@ -1,3 +1,5 @@
+# Autor: Castro Lopez Pedro - pcastrol@uteq.edu.ec
+
 import os
 import numpy as np
 import matplotlib.pyplot as plt
